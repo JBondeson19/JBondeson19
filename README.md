@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm James! (he/him)
 
 
-##About Me
+## About Me
 
 I am new to the software development world and loving every step! With a background in hopsitality and service, I love working with people and solving problems. My passions lie in communication, wellness, and cultivating my creativity in service to others. As a second generation American in the LGBTQ Community, I'm hoping to take my newfound skills as a full stack web devloper and help change the digital landscape to be more inclusive and welcoming to people of all walks of life. I love finding new problems and making all those error codes disappear for a cool new tool or program, whether it be in development or in real life between people. Let's work together and make something great! 😊
 
-##Skills
+## Skills
 
 Programming Languages/skills:
 -Ruby
