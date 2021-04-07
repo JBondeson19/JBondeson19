@@ -8,22 +8,21 @@ I am new to the software development world and loving every step! With a backgro
 ## Skills
 
 Programming Languages/skills:
--Ruby
--Ruby on Rails
--HTML
--CSS (Sass-friendly)
--JavaScript
--React.js
--SQLite
--PostgreSQL
--Git
--Postman
--Bootstrap UI
--Material UI
--Chakra UI
+- Ruby
+- Ruby on Rails
+- HTML
+- CSS (Sass-friendly)
+- JavaScript
+- React.js
+- SQLite
+- PostgreSQL
+- Git
+- Postman
+- Bootstrap UI
+- Chakra UI
 
 
-###Contact Me
+# Contact Me
 
 - Email: jpbond58@gmail.com
 
